@@ -2,10 +2,14 @@
 
 ## Things related to life
 
+## TODO list
+- todo
+
 ## College Education.
 
 ## Coding Notes
 
-## Notes On Women
-
 ## Personality Development Notes.
+
+## Reading
+- [Completed](Completed)
