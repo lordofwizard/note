@@ -66,3 +66,19 @@ in computer graphics pictures or graphics objects are  represented as a collecti
   ![Diagram of vector scan crt](https://i.imgur.com/313i5QV.png)  
   Architecture  
   ![arch](https://image3.slideserve.com/5620447/slide12-l.jpg )   
+* Raster Scan method  
+  Architecture  
+  ![Raster](https://alldifferences.net/wp-content/uploads/2020/10/Architecture-of-a-raster-display.jpg)   
+---
+#### Difference between Vector Scan and Raster Scan.
+
+| Vector Scan                                                                                | Raster Scan                                                                                                                                |
+| +-----------+                                                                              | +-----------+                                                                                                                              |
+| In vector scan display the beam is moved between the end points of the graphics premitives | In raster scan display beam is moved all over the screen one scan line at a time from top to botton & then back to top                     |
+| Scan conversion hardware is not required                                                   | Because each premitive must be scan converted, real time dynamics is far more computational and requires seperate scan conversion hardware |
+| Vector display draws a contineous & smooth lines                                           | Raster scan display can display mathematically smooth lines polygona only by approximating them with pixel on the raster grid.             |
+| cost is **MORE**                                                                           | Cost is **LESS**                                                                                                                           |
+| Vector display only draws lines and characters                                             | Raster display has the ability to display areas with solid colours and patterns.                                                           |
+
+
+
