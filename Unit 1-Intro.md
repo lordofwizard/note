@@ -24,5 +24,22 @@ in computer graphics pictures or graphics objects are  represented as a collecti
     * Plotting Graphs and charts.   
       in industry , government, business, CG is used for making Piecharts graphs and histograms, **Helps in Decision Making Really**.
     * Desktop publishing & Office Automation.   
-      
+      DP allows discrimination and display of information in personal computer eays.   
+      DP allows printing and of Scanned images and pictures. and also in organization helpful in showing  
+      text tables graphcs and other stuff. **OFFICE AUTOMATION BABY**  
+    * Computer Aided Drafting and design :-  
+      CAD is used for making Electronics making electrical, mechanical and electro-mechanical diagrams and stuff. and to design components.  
+      and for automobile bodies, stuctures of buildings, airplane, ships very large-scale integrated VLSI chips, optical systems and computer networks.  
+    * Simulation and Animation :  
+      For showing animated movies and Cartoons.  
+      For showing real world simulation of construction site.  
+    * Art and commerce :  
+      Digital Art and Advertising.  
+    * Process Control:-  
+      Helpful in monitoring a remote machine in a userfriendly way.  
+    * Cargography :-  
+      Helpful in showing information of places and maps.  
+    * Education and Training:-  
+      Very helpful in showing educational graphics and models of physical systems in educational industry.
+    
     
