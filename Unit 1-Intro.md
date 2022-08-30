@@ -45,5 +45,14 @@ in computer graphics pictures or graphics objects are  represented as a collecti
     * Education and Training:-  
       Very helpful in showing educational graphics and models of physical systems in educational industry.
 ---
+## DISPLAY DEVICES BABY.  
+### CRT aka (Cathod Ray Tube) Displays.
 
+* what the fuck is simulation  
+  The use of a computer to represent the dynamic responses of one system by the behavior of another system modeled after it.
+  
+* CRT Diagram.
+    ![CRT](https://electronicspost.com/wp-content/uploads/2015/10/CRT-Block-diagram.png)  
+    This is the diagram of CRT.  
+    learn this diagram very important.
     
