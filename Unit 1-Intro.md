@@ -3,6 +3,7 @@
 * what is computer graphics.  
 It is like an branch of computer science which helps in making the information to the user more easy to read and stuff.
 
+---
 * Pixel / Pel.  
 in computer graphics pictures or graphics objects are  represented as a collection of discrete picture elements called pixels. This pixel is the smalles screen element.
 
@@ -11,7 +12,9 @@ in computer graphics pictures or graphics objects are  represented as a collecti
 
 * Scan conversion.  
     the process of representing continenous picture or graphic object as a collection of discrete pixels is called scan conversion.
-    
+
+---
+
 * Some basic things you should know.
     1. Pixel :- Smallest Element of DISPLAY.
     2. Resolution :- No of pixels on screen.
@@ -41,5 +44,6 @@ in computer graphics pictures or graphics objects are  represented as a collecti
       Helpful in showing information of places and maps.  
     * Education and Training:-  
       Very helpful in showing educational graphics and models of physical systems in educational industry.
-    
+---
+
     
