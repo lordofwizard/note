@@ -16,4 +16,13 @@ in computer graphics pictures or graphics objects are  represented as a collecti
     1. Pixel :- Smallest Element of DISPLAY.
     2. Resolution :- No of pixels on screen.
     3. Aspect Ratio :- Height to width Ratio of the screen / display.
-    4. Frame buffers :- 
+    4. Frame buffers :- Temporary Storage to store some graphics elements.
+* Advantages of **Computer Graphics**. 
+    * User Interfaces. 
+      Well representing information in user friendly way is always more effective and less time consuming that in single text format.
+      Use of mouse >, more interaction with user.
+    * Plotting Graphs and charts. 
+      in industry , government, business, CG is used for making Piecharts graphs and histograms, **Helps in Decision Making Really**.
+    * Desktop publishing & Office Automation.
+      
+    
