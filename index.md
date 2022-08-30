@@ -3,7 +3,7 @@
 ## Things related to life
 
 ## TODO list
-- todo
+- [todo](todo)
 
 ## College Education.
 
@@ -13,3 +13,7 @@
 
 ## Reading
 - [Completed](Completed)
+
+## Project Ideas.
+- [A project Generating program for  competetive programming for codechef and codeforces.](A project Generating program for  competetive programming for codechef and codeforces.)
+- [A scheduler.](A scheduler.)
