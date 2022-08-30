@@ -1,7 +1,8 @@
 # Introduction to computer graphics.
 
 * what is computer graphics.  
-It is like an branch of computer science which helps in making the information to the user more easy to read and stuff.
+    Anything that is not text on display is treated as Computer Graphics.  
+    It is like an branch of computer science which helps in making the information to the user more easy to read and stuff.
 
 ---
 * Pixel / Pel.  
@@ -55,4 +56,13 @@ in computer graphics pictures or graphics objects are  represented as a collecti
     ![CRT](https://electronicspost.com/wp-content/uploads/2015/10/CRT-Block-diagram.png)   
     This is the diagram of CRT.  
     learn this diagram very important.
-    
+   
+---
+### Scanning Of Display Devices.
+
+* Vector Scanning  
+  In This vector scanning method, we can print a line going from point A to point B directly by moving the Electron Gun in the direction of propogation.  
+  check out the diagram below.  
+  ![Diagram of vector scan crt](https://i.imgur.com/313i5QV.png)  
+  Architecture  
+  ![arch](https://image3.slideserve.com/5620447/slide12-l.jpg )   
